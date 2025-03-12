@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Medical
 {
-    public partial class Form1 : Form
+    public partial class frmConnexion1 : Form
     {
-        public Form1()
+        public frmConnexion1()
         {
             InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnQuitter_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
