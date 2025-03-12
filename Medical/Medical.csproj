@@ -39,6 +39,9 @@
     <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
       <HintPath>..\packages\BouncyCastle.Cryptography.2.3.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
     </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -125,6 +128,7 @@
       <DependentUpon>frmMDI.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\Agenda.cs" />
+    <Compile Include="Model\ClassReportTicketRv.cs" />
     <Compile Include="Model\GroupeSanguin.cs" />
     <Compile Include="Model\Medecin.cs" />
     <Compile Include="Model\Patient.cs" />
@@ -136,6 +140,12 @@
     <Compile Include="Model\Utilisateur.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\rptTicketRv.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptTicketRv.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
     <Compile Include="view\frmMedecin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -147,6 +157,18 @@
     </Compile>
     <Compile Include="view\frmPatient.Designer.cs">
       <DependentUpon>frmPatient.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\frmRendezVous.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\frmRendezVous.Designer.cs">
+      <DependentUpon>frmRendezVous.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\PrendreRv.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\PrendreRv.Designer.cs">
+      <DependentUpon>PrendreRv.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -163,11 +185,21 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Report\rptTicketRv.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptTicketRv.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\frmMedecin.resx">
       <DependentUpon>frmMedecin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="view\frmPatient.resx">
       <DependentUpon>frmPatient.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\frmRendezVous.resx">
+      <DependentUpon>frmRendezVous.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\PrendreRv.resx">
+      <DependentUpon>PrendreRv.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
@@ -184,6 +216,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup />
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
     <PropertyGroup>
