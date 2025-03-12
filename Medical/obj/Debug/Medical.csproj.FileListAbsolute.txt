@@ -1,11 +1,6 @@
-C:\Users\Adama\Medical\Medical\bin\Debug\Medical.exe.config
-C:\Users\Adama\Medical\Medical\bin\Debug\Medical.exe
-C:\Users\Adama\Medical\Medical\bin\Debug\Medical.pdb
 C:\Users\Adama\Medical\Medical\obj\Debug\Medical.csproj.AssemblyReference.cache
 C:\Users\Adama\Medical\Medical\obj\Debug\Medical.frmConnexion1.resources
 C:\Users\Adama\Medical\Medical\obj\Debug\Medical.Properties.Resources.resources
-C:\Users\Adama\Medical\Medical\obj\Debug\Medical.View.FrmAgenda.resources
+C:\Users\Adama\Medical\Medical\obj\Debug\AppGroupe2.frmMDI.resources
 C:\Users\Adama\Medical\Medical\obj\Debug\Medical.csproj.GenerateResource.cache
 C:\Users\Adama\Medical\Medical\obj\Debug\Medical.csproj.CoreCompileInputs.cache
-C:\Users\Adama\Medical\Medical\obj\Debug\Medical.exe
-C:\Users\Adama\Medical\Medical\obj\Debug\Medical.pdb

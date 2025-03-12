@@ -47,6 +47,7 @@
             this.btnSeConnecter.TabIndex = 3;
             this.btnSeConnecter.Text = "&Se Connecter";
             this.btnSeConnecter.UseVisualStyleBackColor = true;
+            this.btnSeConnecter.Click += new System.EventHandler(this.btnSeConnecter_Click);
             // 
             // btnQuitter
             // 
@@ -110,7 +111,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 27.75F, ((System.Drawing.FontStyle)(((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic) 
                 | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(84, 65);
+            this.label1.Location = new System.Drawing.Point(97, 62);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(428, 64);
@@ -133,6 +134,7 @@
             this.Controls.Add(this.label1);
             this.Name = "frmConnexion1";
             this.Text = "Page de Connexion";
+            this.Load += new System.EventHandler(this.frmConnexion1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

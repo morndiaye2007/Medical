@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Medical.View;
 
 namespace Medical
 {
@@ -25,6 +26,18 @@ namespace Medical
         private void btnQuitter_Click(object sender, EventArgs e)
         {
             Application.Exit();
+        }
+
+        private void frmConnexion1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnSeConnecter_Click(object sender, EventArgs e)
+        {
+            FrmMDi f = new FrmMDi();
+            f.Show();
+            this.Hide();
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Medical.View;
 
 namespace Medical
 {
@@ -16,7 +17,7 @@ namespace Medical
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmConnexion1());
+            Application.Run(new FrmMDI2());
         }
     }
 }

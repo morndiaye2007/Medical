@@ -54,11 +54,23 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="View\FrmAgenda.cs">
+    <Compile Include="View\frmMDI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="View\FrmAgenda.Designer.cs">
-      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    <Compile Include="View\frmMDI.Designer.cs">
+      <DependentUpon>frmMDI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmMedecin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmMedecin.Designer.cs">
+      <DependentUpon>frmMedecin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\frmPatient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\frmPatient.Designer.cs">
+      <DependentUpon>frmPatient.cs</DependentUpon>
     </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
@@ -72,8 +84,8 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="View\FrmAgenda.resx">
-      <DependentUpon>FrmAgenda.cs</DependentUpon>
+    <EmbeddedResource Include="View\frmMDI.resx">
+      <DependentUpon>frmMDI.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

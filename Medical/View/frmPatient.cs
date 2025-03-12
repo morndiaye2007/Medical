@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Medical.View
 {
-    public partial class FrmAgenda : Form
+    public partial class frmPatient : Form
     {
-        public FrmAgenda()
+        public frmPatient()
         {
             InitializeComponent();
         }

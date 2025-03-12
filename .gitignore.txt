@@ -1,1 +1,13 @@
+# Visual Studio
 .vs/
+*.user
+*.userosscache
+*.suo
+*.ide
+
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore PDB files (debugging files)
+*.pdb
