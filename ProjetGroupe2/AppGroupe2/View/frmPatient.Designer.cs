@@ -53,6 +53,7 @@
             // 
             // dgPatient
             // 
+            this.dgPatient.BackgroundColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.dgPatient.ColumnHeadersHeight = 34;
             this.dgPatient.Location = new System.Drawing.Point(430, 64);
             this.dgPatient.Margin = new System.Windows.Forms.Padding(4);
@@ -246,6 +247,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1200, 626);
             this.ControlBox = false;
             this.Controls.Add(this.btnRendezvous);

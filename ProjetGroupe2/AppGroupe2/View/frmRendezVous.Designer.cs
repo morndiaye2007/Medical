@@ -46,13 +46,14 @@
             // 
             // btnQuitter
             // 
+            this.btnQuitter.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnQuitter.Location = new System.Drawing.Point(1012, 330);
             this.btnQuitter.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.btnQuitter.Name = "btnQuitter";
             this.btnQuitter.Size = new System.Drawing.Size(185, 57);
             this.btnQuitter.TabIndex = 50;
             this.btnQuitter.Text = "Quitter";
-            this.btnQuitter.UseVisualStyleBackColor = true;
+            this.btnQuitter.UseVisualStyleBackColor = false;
             this.btnQuitter.Click += new System.EventHandler(this.btnChoisir_Click);
             // 
             // txtTelephone
@@ -129,36 +130,40 @@
             // 
             // txtajout
             // 
+            this.txtajout.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.txtajout.Location = new System.Drawing.Point(38, 414);
             this.txtajout.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.txtajout.Name = "txtajout";
             this.txtajout.Size = new System.Drawing.Size(120, 36);
             this.txtajout.TabIndex = 59;
             this.txtajout.Text = "Ajout";
-            this.txtajout.UseVisualStyleBackColor = true;
+            this.txtajout.UseVisualStyleBackColor = false;
             // 
             // btnSupprimer1
             // 
+            this.btnSupprimer1.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnSupprimer1.Location = new System.Drawing.Point(324, 414);
             this.btnSupprimer1.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.btnSupprimer1.Name = "btnSupprimer1";
             this.btnSupprimer1.Size = new System.Drawing.Size(120, 36);
             this.btnSupprimer1.TabIndex = 60;
             this.btnSupprimer1.Text = "Supprimer";
-            this.btnSupprimer1.UseVisualStyleBackColor = true;
+            this.btnSupprimer1.UseVisualStyleBackColor = false;
             // 
             // btxModifier
             // 
+            this.btxModifier.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btxModifier.Location = new System.Drawing.Point(176, 414);
             this.btxModifier.Margin = new System.Windows.Forms.Padding(9, 8, 9, 8);
             this.btxModifier.Name = "btxModifier";
             this.btxModifier.Size = new System.Drawing.Size(120, 36);
             this.btxModifier.TabIndex = 61;
             this.btxModifier.Text = "Modifier";
-            this.btxModifier.UseVisualStyleBackColor = true;
+            this.btxModifier.UseVisualStyleBackColor = false;
             // 
             // dataGridView1
             // 
+            this.dataGridView1.BackgroundColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Location = new System.Drawing.Point(551, 159);
             this.dataGridView1.Name = "dataGridView1";
@@ -171,6 +176,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1404, 851);
             this.ControlBox = false;
             this.Controls.Add(this.dataGridView1);

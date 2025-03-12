@@ -103,24 +103,26 @@
             // 
             // btnQuitter
             // 
+            this.btnQuitter.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnQuitter.Location = new System.Drawing.Point(80, 342);
             this.btnQuitter.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnQuitter.Name = "btnQuitter";
             this.btnQuitter.Size = new System.Drawing.Size(112, 35);
             this.btnQuitter.TabIndex = 4;
             this.btnQuitter.Text = "&Quitter";
-            this.btnQuitter.UseVisualStyleBackColor = true;
+            this.btnQuitter.UseVisualStyleBackColor = false;
             this.btnQuitter.Click += new System.EventHandler(this.btnQuitter_Click);
             // 
             // btnSeConnecter
             // 
+            this.btnSeConnecter.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnSeConnecter.Location = new System.Drawing.Point(240, 342);
             this.btnSeConnecter.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.btnSeConnecter.Name = "btnSeConnecter";
             this.btnSeConnecter.Size = new System.Drawing.Size(162, 35);
             this.btnSeConnecter.TabIndex = 3;
             this.btnSeConnecter.Text = "&Se Connecter";
-            this.btnSeConnecter.UseVisualStyleBackColor = true;
+            this.btnSeConnecter.UseVisualStyleBackColor = false;
             this.btnSeConnecter.Click += new System.EventHandler(this.btnSeConnecter_Click);
             // 
             // frmConnexion
@@ -128,7 +130,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(636, 474);
+            this.ClientSize = new System.Drawing.Size(618, 462);
             this.ControlBox = false;
             this.Controls.Add(this.btnSeConnecter);
             this.Controls.Add(this.btnQuitter);

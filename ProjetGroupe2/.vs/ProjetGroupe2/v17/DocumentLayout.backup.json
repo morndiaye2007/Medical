@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmrendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmrendezvous.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\frmmdi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\frmmdi.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmrendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -39,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -53,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|solutionrelative:appgroupe2\\view\\frmmedecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35340B38-62F1-4EB3-8B58-5BC49F486239}|AppGroupe2\\AppGroupe2.csproj|c:\\users\\adama\\desktop\\csharp\\projetgroupe2\\appgroupe2\\model\\agenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,41 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "frmRendezVous.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.Designer.cs",
-              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmRendezVous.Designer.cs",
-              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.Designer.cs",
-              "RelativeToolTip": "AppGroupe2\\View\\frmRendezVous.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:07:57.492Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmMDI.cs",
-              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.cs",
-              "RelativeDocumentMoniker": "AppGroupe2\\frmMDI.cs",
-              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.cs",
-              "RelativeToolTip": "AppGroupe2\\frmMDI.cs",
-              "ViewState": "AgIAADcAAACAMjMzM7MwwEoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T15:06:53.504Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "frmRendezVous.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\View\\frmRendezVous.cs",
@@ -125,6 +95,74 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "frmRendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.cs",
+              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmRendezVous.cs",
+              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.cs",
+              "RelativeToolTip": "AppGroupe2\\View\\frmRendezVous.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T14:54:58.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMedecin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
+              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmMedecin.cs",
+              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs [Design]",
+              "RelativeToolTip": "AppGroupe2\\View\\frmMedecin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:28:57.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMedecin.cs",
+              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
+              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmMedecin.cs",
+              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
+              "RelativeToolTip": "AppGroupe2\\View\\frmMedecin.cs",
+              "ViewState": "AgIAABUAAACAAQAAAIA3wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:29:27.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmRendezVous.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.Designer.cs",
+              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmRendezVous.Designer.cs",
+              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.Designer.cs",
+              "RelativeToolTip": "AppGroupe2\\View\\frmRendezVous.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:07:57.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmMDI.cs",
+              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.cs",
+              "RelativeDocumentMoniker": "AppGroupe2\\frmMDI.cs",
+              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.cs",
+              "RelativeToolTip": "AppGroupe2\\frmMDI.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:06:53.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "frmMDI.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\frmMDI.cs",
@@ -136,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "frmMDI.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\frmMDI.Designer.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\frmMDI.Designer.cs",
@@ -149,20 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "frmRendezVous.cs",
-              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.cs",
-              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmRendezVous.cs",
-              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmRendezVous.cs",
-              "RelativeToolTip": "AppGroupe2\\View\\frmRendezVous.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAUwB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T14:54:58.318Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\Form1.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\Form1.cs",
@@ -174,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\Form1.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\Form1.cs",
@@ -187,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmPatient.cs",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmPatient.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\View\\frmPatient.cs",
@@ -200,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\Form1.Designer.cs",
@@ -213,19 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "frmMedecin.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
-              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmMedecin.cs",
-              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs [Design]",
-              "RelativeToolTip": "AppGroupe2\\View\\frmMedecin.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T12:28:57.331Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "frmPatient.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmPatient.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\View\\frmPatient.cs",
@@ -237,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\Program.cs",
               "RelativeDocumentMoniker": "AppGroupe2\\Program.cs",
@@ -272,19 +285,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T14:01:41.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "frmMedecin.cs",
-              "DocumentMoniker": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
-              "RelativeDocumentMoniker": "AppGroupe2\\View\\frmMedecin.cs",
-              "ToolTip": "C:\\Users\\Adama\\Desktop\\csharp\\ProjetGroupe2\\AppGroupe2\\View\\frmMedecin.cs",
-              "RelativeToolTip": "AppGroupe2\\View\\frmMedecin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T12:29:27.36Z",
               "EditorCaption": ""
             },
             {

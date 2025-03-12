@@ -53,43 +53,47 @@
             // 
             // btnChoisir
             // 
+            this.btnChoisir.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnChoisir.Location = new System.Drawing.Point(438, 27);
             this.btnChoisir.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.btnChoisir.Name = "btnChoisir";
             this.btnChoisir.Size = new System.Drawing.Size(112, 34);
             this.btnChoisir.TabIndex = 69;
             this.btnChoisir.Text = "Choisir";
-            this.btnChoisir.UseVisualStyleBackColor = true;
+            this.btnChoisir.UseVisualStyleBackColor = false;
             // 
             // btnSupprimer
             // 
+            this.btnSupprimer.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnSupprimer.Location = new System.Drawing.Point(272, 393);
             this.btnSupprimer.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.btnSupprimer.Name = "btnSupprimer";
             this.btnSupprimer.Size = new System.Drawing.Size(111, 34);
             this.btnSupprimer.TabIndex = 72;
             this.btnSupprimer.Text = "Supprimer";
-            this.btnSupprimer.UseVisualStyleBackColor = true;
+            this.btnSupprimer.UseVisualStyleBackColor = false;
             // 
             // btnModifier
             // 
+            this.btnModifier.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnModifier.Location = new System.Drawing.Point(155, 393);
             this.btnModifier.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.btnModifier.Name = "btnModifier";
             this.btnModifier.Size = new System.Drawing.Size(111, 34);
             this.btnModifier.TabIndex = 71;
             this.btnModifier.Text = "Modifier";
-            this.btnModifier.UseVisualStyleBackColor = true;
+            this.btnModifier.UseVisualStyleBackColor = false;
             // 
             // btnAjouter
             // 
+            this.btnAjouter.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.btnAjouter.Location = new System.Drawing.Point(29, 393);
             this.btnAjouter.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.btnAjouter.Name = "btnAjouter";
             this.btnAjouter.Size = new System.Drawing.Size(112, 34);
             this.btnAjouter.TabIndex = 68;
             this.btnAjouter.Text = "Ajouter";
-            this.btnAjouter.UseVisualStyleBackColor = true;
+            this.btnAjouter.UseVisualStyleBackColor = false;
             this.btnAjouter.Click += new System.EventHandler(this.btnAjouter_Click);
             // 
             // txtCreneau
@@ -194,7 +198,9 @@
             // 
             // dgAgenda
             // 
+            this.dgAgenda.BackgroundColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.dgAgenda.ColumnHeadersHeight = 34;
+            this.dgAgenda.GridColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.dgAgenda.Location = new System.Drawing.Point(438, 71);
             this.dgAgenda.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.dgAgenda.Name = "dgAgenda";
@@ -223,13 +229,14 @@
             // 
             // btnFermer
             // 
-            this.btnFermer.Location = new System.Drawing.Point(974, 8);
+            this.btnFermer.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.btnFermer.Location = new System.Drawing.Point(917, 25);
             this.btnFermer.Margin = new System.Windows.Forms.Padding(7, 5, 7, 5);
             this.btnFermer.Name = "btnFermer";
             this.btnFermer.Size = new System.Drawing.Size(112, 34);
             this.btnFermer.TabIndex = 78;
             this.btnFermer.Text = "Fermer";
-            this.btnFermer.UseVisualStyleBackColor = true;
+            this.btnFermer.UseVisualStyleBackColor = false;
             this.btnFermer.Click += new System.EventHandler(this.btnFermer_Click);
             // 
             // lblIdMedecin
@@ -245,6 +252,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(1092, 553);
             this.ControlBox = false;
             this.Controls.Add(this.lblIdMedecin);

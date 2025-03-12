@@ -46,7 +46,6 @@
             this.lblNomPrenom = new System.Windows.Forms.Label();
             this.dgRendezVous = new System.Windows.Forms.DataGridView();
             this.namecreneau = new System.Windows.Forms.Label();
-            this.crystalReportViewer1 = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
             ((System.ComponentModel.ISupportInitialize)(this.dgRendezVous)).BeginInit();
             this.SuspendLayout();
             // 
@@ -222,16 +221,6 @@
             this.namecreneau.TabIndex = 76;
             this.namecreneau.Text = "Creneau";
             // 
-            // crystalReportViewer1
-            // 
-            this.crystalReportViewer1.ActiveViewIndex = -1;
-            this.crystalReportViewer1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.crystalReportViewer1.Cursor = System.Windows.Forms.Cursors.Default;
-            this.crystalReportViewer1.Location = new System.Drawing.Point(286, 506);
-            this.crystalReportViewer1.Name = "crystalReportViewer1";
-            this.crystalReportViewer1.Size = new System.Drawing.Size(150, 150);
-            this.crystalReportViewer1.TabIndex = 77;
-            // 
             // frmDemanderendezvous
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
@@ -239,7 +228,6 @@
             this.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.ClientSize = new System.Drawing.Size(1227, 865);
             this.ControlBox = false;
-            this.Controls.Add(this.crystalReportViewer1);
             this.Controls.Add(this.namecreneau);
             this.Controls.Add(this.btnSupprimer);
             this.Controls.Add(this.btnAjouter);
@@ -285,6 +273,5 @@
         private System.Windows.Forms.Label lblNomPrenom;
         private System.Windows.Forms.DataGridView dgRendezVous;
         private System.Windows.Forms.Label namecreneau;
-        private CrystalDecisions.Windows.Forms.CrystalReportViewer crystalReportViewer1;
     }
 }
