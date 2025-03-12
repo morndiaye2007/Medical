@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GestionRV.Model
+namespace Medical.Model
 {
-    public class Secretaire: Utilisateur
+    internal class Secretaire
     {
-        [MaxLength(15)]
-        public String TelphoneFixe {  get; set; }
     }
 }
