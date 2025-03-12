@@ -7,8 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using GestionRV.View;
-using Microsoft.VisualBasic.Devices;
+using Medical.view;
+//using Microsoft.VisualBasic.Devices;
 
 
 namespace GestionRV
